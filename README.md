@@ -3,6 +3,9 @@ InstaFilter is an iOS application that allows you to apply various filters to im
 
 This app is built using SwiftUI and Core Image frameworks. It uses the ImagePicker component to allow the user to select an image from their photo library, and then it applies filters to the image using CIFilters.
 
+
+https://github.com/Ktamim98/InstaFilterSUI/assets/124142522/2c410e20-ab03-486f-abcd-d7511d628dc5
+
 ## How to Use
 To use the app, simply tap the image area to select a picture from your library. Then you can adjust the filter intensity using the slider and choose a filter from the filter sheet. Once you have applied the desired filter, you can save the filtered image to your photo album using the save button.
 
